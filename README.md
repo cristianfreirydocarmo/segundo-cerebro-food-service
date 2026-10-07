@@ -123,6 +123,8 @@ Fiz a mesma pergunta cinco vezes, ajustando as fontes e a diretriz entre uma e o
 
 https://notebook.google.com/notebook/a8426045-64e9-4eee-9336-212bac812106
 
+O link está aberto para qualquer pessoa, mas o Gemini Notebook exige login com uma conta Google para visualizar. Testei numa aba anônima com outra conta e abriu normalmente.
+
 ## 8. O que aprendi
 
 - **As fontes mudaram mais a resposta do que a IA.** A pergunta 1 passou de "31,1%" com dados antigos e sem data para "32,8% (POF 2017-18)" só com a limpeza das fontes.
