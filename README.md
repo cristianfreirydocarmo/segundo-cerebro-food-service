@@ -113,7 +113,7 @@ Fiz a mesma pergunta cinco vezes, ajustando as fontes e a diretriz entre uma e o
 | Mapa mental | [`materiais/mapa-mental-apps-e-plataformizacao.png`](materiais/mapa-mental-apps-e-plataformizacao.png) | "Fatores de uso e plataformização do delivery": o modelo UTAUT2 do estudo da RBGN (coeficientes de cada fator, metodologia) e a plataformização com a exclusão territorial em BH (Cadernos Metrópole) |
 | Guia de estudos | [`materiais/guia-de-estudos-plataformas-delivery.docx`](materiais/guia-de-estudos-plataformas-delivery.docx) | Quiz de 10 questões com gabarito, questões dissertativas e glossário. Gerado em inglês. |
 | Resumo em áudio | [`materiais/resumo-audio-algoritmos-de-entrega.m4a`](materiais/resumo-audio-algoritmos-de-entrega.m4a) | Episódio "Como algoritmos de entrega segregam cidades" |
-| Slides | em geração | A ferramenta deixou o recurso indisponível temporariamente; o PDF entra assim que for gerado |
+| Slides | não gerado | O recurso de slides ficou indisponível no Estúdio durante o desafio. A ferramenta indicou um horário para tentar de novo, e o problema continuou. Entreguei com os outros três materiais. |
 
 **O que observei:** gerei os materiais com as 15 fontes selecionadas, mas os três se concentraram nos dois artigos acadêmicos (RBGN e Cadernos Metrópole) e deixaram de fora os dados de mercado (IBGE, IFB, Abrasel, Galunion). Minha hipótese é que o Estúdio prioriza as fontes mais longas e estruturadas. No chat, o notebook usou todas as fontes; no Estúdio, escolheu um recorte. Para cobrir o tema inteiro num material, é preciso pedir isso explicitamente na personalização.
 
